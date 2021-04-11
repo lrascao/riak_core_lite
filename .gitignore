@@ -1,7 +1,6 @@
 .eunit/*
 log
 deps/*
-priv/*
 ebin/*
 *.o
 include/*_pb.hrl
